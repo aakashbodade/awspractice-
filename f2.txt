@@ -1,10 +1,14 @@
 This demo file which i am going to push on github.
 Github is easy to learn and use.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Git is free software.
 Git is version control software.
 
 
 This only needs to be commited
 =======
+>>>>>>> Stashed changes
+=======
+
 >>>>>>> Stashed changes
