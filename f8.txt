@@ -1,1 +1,2 @@
 This demo file.
+We are going to use git stash here.
